@@ -1,0 +1,6 @@
+spell_id_124.png
+size:32,32
+filter:Linear,Linear
+stone
+bounds:0,0,24,22
+offsets:3,3,30,28

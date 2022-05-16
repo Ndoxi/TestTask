@@ -1,0 +1,15 @@
+spell_id_2.png
+size:512,512
+filter:Linear,Linear
+ball
+bounds:281,0,133,116
+fire1
+bounds:310,118,244,193
+rotate:90
+fire2
+bounds:145,73,127,134
+rotate:90
+fire3
+bounds:0,202,308,160
+lines
+bounds:0,58,143,142
